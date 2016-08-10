@@ -1,2 +1,2 @@
 # kjidog.github.io
-세미나1
+세미나111
